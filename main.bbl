@@ -1,5 +1,12 @@
 \begin{thebibliography}{10}
 
+\bibitem{5420590}
+R.~Chellali, K.~Baizid, and Zhao Li.
+\newblock 2d and 3d virtual environment for human robot interaction: From
+  virtual perception to real localization.
+\newblock In {\em Robotics and Biomimetics (ROBIO), 2009 IEEE International
+  Conference on}, pages 694--699, Dec 2009.
+
 \bibitem{chellali20092d}
 Ryad Chellali, Khelifa Baizid, and Zhao Li.
 \newblock 2d and 3d virtual environment for human robot interaction: from
@@ -20,12 +27,26 @@ Ram{\'o}n Herv{\'a}s, Jos{\'e} Bravo, and Jes{\'u}s Fontecha.
 \newblock {\em Biomedical and Health Informatics, IEEE Journal of},
   18(1):368--374, 2014.
 
+\bibitem{724064}
+A.~Hopp, D.~Schulz, W.~Burgard, A.B. Cremers, and D.~Fellner.
+\newblock Virtual reality visualization of distributed tele-experiments.
+\newblock In {\em Industrial Electronics Society, 1998. IECON '98. Proceedings
+  of the 24th Annual Conference of the IEEE}, volume~4, pages 2210--2215 vol.4,
+  Aug 1998.
+
 \bibitem{hopp1998virtual}
 Armin Hopp, Dirk Schulz, Wolfram Burgard, Armin~B Cremers, and Dieter Fellner.
 \newblock Virtual reality visualization of distributed tele-experiments.
 \newblock In {\em Industrial Electronics Society, 1998. IECON'98. Proceedings
   of the 24th Annual Conference of the IEEE}, volume~4, pages 2210--2215. IEEE,
   1998.
+
+\bibitem{6610583}
+K.~Hori, Y.~Uchida, T.~Kan, M.~Minami, C.~Naito, T.~Kuroda, H.~Takahashi,
+  M.~Ando, T.~Kawamura, N.~Kume, K.~Okamoto, T.~Takemura, and H.~Yoshihara.
+\newblock Tele-auscultation support system with mixed reality navigation.
+\newblock In {\em Engineering in Medicine and Biology Society (EMBC), 2013 35th
+  Annual International Conference of the IEEE}, pages 4646--4649, July 2013.
 
 \bibitem{hori2013tele}
 Kenta Hori, Yusuke Uchida, Tsukasa Kan, Maya Minami, Chisako Naito, Tomohiro
@@ -40,6 +61,13 @@ Joshua~M Knapp and Jack~M Loomis.
   distance underestimation in virtual environments.
 \newblock {\em Presence: Teleoperators and Virtual Environments},
   13(5):572--577, 2004.
+
+\bibitem{5945796}
+N.~Kubota, Y.~Toda, and Beom~Hee Lee.
+\newblock Multifeatured visualization and navigation in tele-operation of
+  mobile robots.
+\newblock In {\em Robotic Intelligence In Informationally Structured Space
+  (RiiSS), 2011 IEEE Workshop on}, pages 85--92, April 2011.
 
 \bibitem{kubota2011multifeatured}
 Naoyuki Kubota, Yuichiro Toda, and Beom~Hee Lee.
