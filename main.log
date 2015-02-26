@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.9.9)  26 FEB 2015 11:40
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.9.9)  26 FEB 2015 11:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -599,14 +599,14 @@ LaTeX Font Info:    Font shape `OT1/Cabin-TLF/m/n' will be
 LaTeX Font Info:    Font shape `OT1/Cabin-TLF/b/n' will be
 (Font)              scaled to size 14.4pt on input line 26.
 
-No file main.toc.
+(./main.toc)
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
-(./introduction.tex) (./experimental.tex) (./results.tex) (./conclusion.tex)
+ (./introduction.tex) (./experimental.tex) (./results.tex)
+(./conclusion.tex)
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 36.
-
-[1
+ [1
 
 
 {/usr/share/texlive/texmf/fonts/map/pdftex/updmap/pdftex.map}]
@@ -614,22 +614,15 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 36.
  (./main.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 36.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 36.
-
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
-(rerunfilecheck)             After:  F44CC45D52E31CE9BA2015612C1F53E3;187.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: F44CC45D52E31CE9BA2015612C1F53E3;187.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 36.
  ) 
 Here is how much of TeX's memory you used:
- 10031 strings out of 495063
- 149375 string characters out of 3182202
- 257140 words of memory out of 3000000
- 13097 multiletter control sequences out of 15000+200000
+ 10038 strings out of 495063
+ 149439 string characters out of 3182202
+ 258122 words of memory out of 3000000
+ 13102 multiletter control sequences out of 15000+200000
  24631 words of font info for 27 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
  36i,12n,41p,219b,345s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -637,10 +630,10 @@ Here is how much of TeX's memory you used:
 are/texlive/texmf-local/fonts/type1/impallari/cabin/Cabin-Bold.pfb></usr/share/
 texlive/texmf-local/fonts/type1/impallari/cabin/Cabin-Regular.pfb></usr/share/t
 exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on main.pdf (1 page, 19235 bytes).
+Output written on main.pdf (1 page, 19280 bytes).
 PDF statistics:
- 33 PDF objects out of 1000 (max. 8388607)
- 26 compressed objects within 1 object stream
+ 50 PDF objects out of 1000 (max. 8388607)
+ 43 compressed objects within 1 object stream
  7 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 33 words of extra memory for PDF output out of 10000 (max. 10000000)
 
