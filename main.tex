@@ -1,4 +1,4 @@
-\documentclass[a4,11pt]{scrartcl} 
+\documentclass[a4,11pt]{scrreprt} 
 
 \title{Peripheral Vision and Shit}
 \subtitle{Natural Intelligence Report}
@@ -24,13 +24,19 @@
 \begin{document}
     \maketitle{}
     \tableofcontents
-    \section{Introduction}
+    \chapter{Introduction}
     \input{introduction}
-    \section{Experimental Setup}
+    \chapter{Experimental Setup}
     \input{experimental}
-    \section{Results}
+    \chapter{Results}
     \input{results}
-    \section{Conclusion}
+    \chapter{Conclusion}
     \input{conclusion}
+    
+    \addcontentsline{toc}{chapter}{Bibliography}
+    \bibliographystyle{plain}
+    \bibliography{main} 
+    \nocite {*} 
+    
     
 \end{document}
