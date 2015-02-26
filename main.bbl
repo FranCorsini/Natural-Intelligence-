@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{chellali20092d}
 Ryad Chellali, Khelifa Baizid, and Zhao Li.
@@ -6,6 +6,12 @@ Ryad Chellali, Khelifa Baizid, and Zhao Li.
   virtual perception to real localization.
 \newblock In {\em Robotics and Biomimetics (ROBIO), 2009 IEEE International
   Conference on}, pages 694--699. IEEE, 2009.
+
+\bibitem{creem2005influence}
+Sarah~H Creem-Regehr, Peter Willemsen, Amy~A Gooch, and William~B Thompson.
+\newblock The influence of restricted viewing conditions on egocentric distance
+  perception: Implications for real and virtual environments.
+\newblock {\em Perception}, 34(2):191--204, 2005.
 
 \bibitem{hervas2014assistive}
 Ram{\'o}n Herv{\'a}s, Jos{\'e} Bravo, and Jes{\'u}s Fontecha.
@@ -28,6 +34,13 @@ Kenta Hori, Yusuke Uchida, Tsukasa Kan, Maya Minami, Chisako Naito, Tomohiro
 \newblock In {\em Engineering in Medicine and Biology Society (EMBC), 2013 35th
   Annual International Conference of the IEEE}, pages 4646--4649. IEEE, 2013.
 
+\bibitem{knapp2004limited}
+Joshua~M Knapp and Jack~M Loomis.
+\newblock Limited field of view of head-mounted displays is not the cause of
+  distance underestimation in virtual environments.
+\newblock {\em Presence: Teleoperators and Virtual Environments},
+  13(5):572--577, 2004.
+
 \bibitem{kubota2011multifeatured}
 Naoyuki Kubota, Yuichiro Toda, and Beom~Hee Lee.
 \newblock Multifeatured visualization and navigation in tele-operation of
@@ -47,6 +60,18 @@ Mika Luimula, Kirsti S{\"a}{\"a}skilahti, Timo Partala, Sakari Piesk{\"a}, and
   Juha Alasp{\"a}{\"a}.
 \newblock Remote navigation of a mobile robot in an rfid-augmented environment.
 \newblock {\em Personal and Ubiquitous Computing}, 14(2):125--136, 2010.
+
+\bibitem{pretto2009influence}
+Paolo Pretto, Maelle Ogier, Heinrich~H B{\"u}lthoff, and J-P Bresciani.
+\newblock Influence of the size of the field of view on motion perception.
+\newblock {\em Computers \& Graphics}, 33(2):139--146, 2009.
+
+\bibitem{riecke2009display}
+Bernhard~E Riecke, Pooya~Amini Behbahani, and Chris~D Shaw.
+\newblock Display size does not affect egocentric distance perception of
+  naturalistic stimuli.
+\newblock In {\em Proceedings of the 6th Symposium on Applied Perception in
+  Graphics and Visualization}, pages 15--18. ACM, 2009.
 
 \bibitem{stone2013human}
 Richard~T Stone, Michael Dorneich, Stephen Gilbert, and Elease McLaurin.
