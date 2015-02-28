@@ -1,6 +1,16 @@
 \chapter{Experimental Setup}
+To be able to do the experiment, several hardware are needed, namely:
+
+\begin{itemize}
+  \item Radio controlled car, including the controller
+  \item Wireless camera, such as GoPro
+  \item Screen
+\end{itemize}
+
+Aside from the hardware, a location, such as a maze or a track is also necessary. 
+
 - miniature radio controlled car
-- enviroment with high(relative to car) location-cues
+- environment with high(relative to car) location-cues
 - Batteries
 - Car controller
 - Way to intercept the driving signals
@@ -12,14 +22,26 @@
 - screen
 - head mounted display?
 - FOV closure/distortion stuff
-- remove center / periferal, letterboxes
+- remove center / peripheral, letterboxes
 
 
 \section{Measurements}
+%the test combinations below have too many factors, so we need to think how to do this
+\begin{table}[h]
+\begin{tabular}{|l|lllll|}
+\hline
+No & Vision  & Method distortion & Screen resolution & Screen distance & Screen size \\\hline
+1  & Normal  & None              & ?                 & ?               & ?           \\
+2  & Reduced & Letterbox?        & ?                 & ?               &             \\
+3  & ...     & ...               & ...               & ...             & ...        \\\hline
+\end{tabular}
+\caption{Test combinations}
+\end{table}
+
 - time
-- accuricy
+- accuracy
 - collision
-- driver comfort level
+- driver comfort level (This can be achieved by using questionnaires)
 - Screen distance
 - Screen resolution
 - Screen Size
